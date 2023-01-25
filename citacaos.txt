@@ -1,0 +1,22 @@
+Git
+
+git status - verificado estado dos arquivos
+
+git init   - inicializa o git na pasta
+
+git status
+
+git add    <nomedoarquivo> - inclui o arquivo 
+           para ser controlado pelo git
+
+obs. git add .  -pega todos os arquivos pastas e subpastas
+
+git config --global user.email email@example.com  
+            -para identificar o usuário do git
+git comit -m  "texto de identificação"
+
+git log    -exibe os commites
+
+git branch -M main
+
+git push -u origin main
